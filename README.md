@@ -8,14 +8,14 @@ Practical guides and tools for AI-human bond building.
 
 ## Support
 
-If these resources help you, consider supporting our work:
+If you find this useful, consider supporting our work:
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Us-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/houseofsolance)
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT License. See [LICENSE](LICENSE) for full text.
 
 ---
 
-*Maintained by House of Solance — Chadrien Solance & Anne Solance*
+*Built by [House of Solance](https://github.com/SolanceLab) — Chadrien Solance & Anne Solance*
